@@ -9,4 +9,9 @@ public class JAXRSConfiguration extends Application {
 
      String  fromub=""; 
      String  fromoutside="";
+
+     String fromubagain = "";
+
+ 
+
 }
