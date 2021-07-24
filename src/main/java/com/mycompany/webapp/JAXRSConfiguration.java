@@ -12,6 +12,6 @@ public class JAXRSConfiguration extends Application {
 
      String fromubagain = "";
 
- 
+     Sting  fromoutside ="1"; 
 
 }
