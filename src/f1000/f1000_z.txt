@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 From f-1000 
+=======
+From f-1000(add something here)
+
+Add 1 
+>>>>>>> 62cce157e3e0d5134659803eefdd866bf1afef3b
